@@ -1,2 +1,2 @@
 # next-first-app
-Haciendo una prueba de nextjs
+Haciendo una primer prueba con Next.js

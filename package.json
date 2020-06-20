@@ -1,0 +1,20 @@
+{
+  "name": "nextjs",
+  "version": "0.0.1",
+  "description": "Primera app con next js",
+  "main": "index.js",
+  "scripts": {
+
+    "dev": "next",
+    "build": "next build",
+    "start":"next start",
+    "export": "next build & next export -o build"
+  },
+  "author": "Nahuel Caceres",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
